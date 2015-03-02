@@ -6,12 +6,12 @@
  Example :
 
 <pre><code>
-<html>
-  <div id='enhanced'>
-  
-  </div>
-</html>
-
+	<html>
+	  <div id='enhanced'>
+	  
+	  </div>
+	</html>
+</code></pre>
 <style>
             #enhanced {
                  padding: 30px 30px 15px 30px;
@@ -29,5 +29,5 @@
 <script>
       $('#timeline').attachDragger();
 </script>
-</code></pre>
+
 
