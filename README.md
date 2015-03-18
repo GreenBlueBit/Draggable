@@ -27,7 +27,7 @@
 
 
 <script>
-      $('#timeline').attachDragger();
+      $('#enhanced').attachDragger();
 </script>
 ```
 
